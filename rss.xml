@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Social Media Network Group]]></title>
         <description><![CDATA[Social Media Network Group]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/social-media-network-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 00:20:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 18:09:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/social-media-network-group/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c11c5a2-efc4-4449-8641-5cd6bf08459e.jpg">]]></description>
+            <link>https://thegrid.ai/social-media-network-group/7e2a0657-c9d5-44ea-b082-c6c3fe185ceb/index.html</link>
+            <guid isPermaLink="false">7e2a0657-c9d5-44ea-b082-c6c3fe185ceb</guid>
+            <pubDate>Fri, 05 Feb 2016 18:09:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b827068c-ad4f-4af0-ba01-d6bc5c98388c.png">]]></description>
-            <link>undefined9532bf7b-ba3e-48b6-a6fd-863b7ff16e71/index.html</link>
+            <link>https://thegrid.ai/social-media-network-group/9532bf7b-ba3e-48b6-a6fd-863b7ff16e71/index.html</link>
             <guid isPermaLink="false">9532bf7b-ba3e-48b6-a6fd-863b7ff16e71</guid>
             <pubDate>Fri, 05 Feb 2016 00:19:48 GMT</pubDate>
         </item>
