@@ -1,7 +1,7 @@
 name: Social Media Network Group
 favicon: null
-layout_spectrum: 0.5638853143900633
-typography_spectrum: 0.7458917570766062
+layout_spectrum: 0.5374
+typography_spectrum: 0.60983
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6247850360814482
+    - '#000400'
+    - '#fdc39b'
+    - '#d49a74'
+    - '#fffbc3'
+    - '#744527'
+  brandStrength: 0.4375
   lightness: 0.6506159291602671
   saturation: 0.6656268392689526
   rhythmicContrast: 0.03549519903026521
