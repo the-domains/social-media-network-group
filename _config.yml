@@ -1,19 +1,4 @@
-name: Social Media Network Group
-favicon: null
-layout_spectrum: 0.5374
 typography_spectrum: 0.60983
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000400'
@@ -25,4 +10,20 @@ color:
   lightness: 0.6506159291602671
   saturation: 0.6656268392689526
   rhythmicContrast: 0.03549519903026521
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5374
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Social Media Network Group
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: SMNG
 purpose: []
